@@ -10,5 +10,5 @@ Features:
 - Seamless integration between frontend and backend for a smooth user experience
 
 Tech Stack:
-- Frontend: React
-- Backend: Node.js, Express
+- **Frontend**: React
+- **Backend**: Node.js, Express
