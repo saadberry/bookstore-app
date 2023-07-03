@@ -12,8 +12,3 @@ Features:
 Tech Stack:
 - Frontend: React
 - Backend: Node.js, Express
-
-
-
-
-# bookstore-app
